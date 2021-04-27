@@ -51,8 +51,8 @@
 
 ## Materials
 
-* [1st chapter of Git Pro:VCS]
-* [2nd chapter of Git Pro:Git Repo]
-* [6th chapter of Git Pro:Github]
-* [Markdown]
+* [1st chapter of Git Pro:VCS](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+* [2nd chapter of Git Pro:Git Repo](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+* [6th chapter of Git Pro:Github](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+* [Markdown](https://www.markdownguide.org/getting-started/)
 
